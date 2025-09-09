@@ -335,7 +335,7 @@ export const fonts: Font[] = [
     previewText: "តោថ្ម",
     downloadUrl: "/fonts/khmer font/Kh Ang ToaThmor.ttf",
   },
-  
+
   {
     id: "38",
     name: "Kh Ang ToaThmor 2",
@@ -353,6 +353,15 @@ export const fonts: Font[] = [
     fontFamily: "Kh Ang ToaThmor 3",
     previewText: "តោថ្ម ៣",
     downloadUrl: "/fonts/khmer font/Kh Ang ToaThmor 3.ttf",
+  },
+  {
+    id: "40",
+    name: "Niradei Medium",
+    type: "Khmer",
+    fileName: "Niradei-Medium.ttf",
+    fontFamily: "Niradei Medium",
+    previewText: "និរតី",
+    downloadUrl: "/fonts/khmer font/Niradei-Medium.ttf",
   },
   //English font
   {
@@ -436,12 +445,57 @@ export const fonts: Font[] = [
     previewText: "ROSNOC",
     downloadUrl: "/fonts/english font/Rosnoc.otf",
   },
+  {
+    id: "10",
+    name: "Qurova DEMO",
+    type: "English",
+    fileName: "QurovademoMedium.otf",
+    fontFamily: "Qurova DEMO",
+    previewText: "Qurova DEMO",
+    downloadUrl: "/fonts/english font/QurovademoMedium.otf",
+  },
+  {
+    id: "11",
+    name: "Gegola DEMO",
+    type: "English",
+    fileName: "Gegola DEMO.otf",
+    fontFamily: "Gegola DEMO",
+    previewText: "Gegola DEMO",
+    downloadUrl: "/fonts/english font/Gegola DEMO.otf",
+  },
+  {
+    id: "12",
+    name: "Godber",
+    type: "English",
+    fileName: "godber.ttf",
+    fontFamily: "Godber",
+    previewText: "Godber",
+    downloadUrl: "/fonts/english font/godber.ttf",
+  },
+  {
+    id: "13",
+    name: "Agale DEMO",
+    type: "English",
+    fileName: "Agale DEMO.otf",
+    fontFamily: "Agale DEMO",
+    previewText: "Agale DEMO",
+    downloadUrl: "/fonts/english font/Agale DEMO.otf",
+  },
+  {
+    id: "14",
+    name: "Ancola Regular",
+    type: "English",
+    fileName: "ancola-regular.otf",
+    fontFamily: "Ancola Regular",
+    previewText: "Ancola",
+    downloadUrl: "/fonts/english font/ancola-regular.otf",
+  },
 ];
 
 // Sample preview texts
 export const sampleTexts = {
   khmer: [
-    "ខ្មែរ អក្សរ ស្រស់ស្អាត",
+    "អក្សរខ្មែរ ស្រស់ស្អាត",
     "ភាសាខ្មែរ គឺជាភាសាផ្លូវការ",
     "អក្សរសាស្ត្រខ្មែរ មានប្រវត្តិយូរលង់",
     "កម្ពុជា ប្រទេសអាស៊ីអាគ្នេយ៍",
